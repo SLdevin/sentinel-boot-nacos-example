@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: spring-cloud-sentinel-sample
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 192.168.74.145:8088
